@@ -2,23 +2,14 @@
 
 <img src="assets/Banner_up (1).gif" alt="Profile Banner" width="100%" />
 
-```
-██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
-██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
-██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
-██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
-        KUMAR JADOUN  —  SYSTEM INFILTRATOR & BUILDER
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=root%40praveen%3A~%24+whoami;%3E+full+stack+developer;%3E+competitive+programmer;%3E+breaking+things+to+understand+them;%3E+access_granted..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=root%40praveen%3A~%24+whoami;%3E+Praveen+Kumar+Jadoun;%3E+full+stack+developer;%3E+competitive+programmer;%3E+breaking+things+to+understand+them;%3E+access_granted..." alt="Typing SVG" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praveenkumarjadoun&label=CONNECTIONS%20ESTABLISHED&color=00FF41&style=for-the-badge&labelColor=0D0D0D)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D0D0D)
 ![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-00FF41?style=for-the-badge&labelColor=0D0D0D)
+![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-CODE_GREEN-00FF41?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
@@ -121,6 +112,18 @@
 
 <div align="center">
 
+### `> ./render_contribution_graph.sh --mode=snake`
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+
+<sub>// generated nightly via github actions — every commit is a step in the chain</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### `> grep -r "deployed" ./projects/`
 
 </div>
@@ -130,6 +133,33 @@
 | **`caretaker-mgmt-sys`** | Connects users with verified caretakers — scheduling, service tracking, encrypted comms, server-rendered for speed. | `MongoDB` `Express.js` `Node.js` `EJS` |
 | **`pharmacy-mgmt-sys`** | End-to-end pharmacy ops — order pipelines, inventory sync, prescription handling. | `React` `Node.js` `MongoDB` |
 | **`expense-tracker`** | Budget-tracking exploit kit — logs spend, visualizes patterns, flags overruns in real time. | `React` `Node.js` `Chart.js` |
+
+<br/>
+
+<div align="center">
+
+### `> cat currently_learning.log`
+
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D0D0D?style=for-the-badge&logo=graphql&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=00FF41)
+![System Design](https://img.shields.io/badge/System_Design-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=00FF41)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `> fortune | cowsay --hacker`
+
+```
+╭──────────────────────────────────────────────────╮
+│  "It's not a bug — it's an undocumented feature." │
+╰──────────────────────────────────────────────────╯
+```
+
+</div>
 
 <br/>
 
